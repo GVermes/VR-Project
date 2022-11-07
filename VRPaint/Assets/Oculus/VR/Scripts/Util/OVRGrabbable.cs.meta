@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 02d61468f8b77ae4b92c344bc9a600fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - throwSFX: {fileID: 8300000, guid: 43d468fa83bd41e43abbd96fff773f88, type: 3}
+  - m_snapOffset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

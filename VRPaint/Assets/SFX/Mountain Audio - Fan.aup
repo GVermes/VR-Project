@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mountain Audio - Fan_data" version="1.3.0" audacityversion="2.3.2" sel0="0.7367623491" sel1="0.7367623491" vpos="0" h="5.4064831320" zoom="280.9589825631" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Mountain Audio - Fan" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="461334">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fae2.au" len="32491" min="-0.378115" max="0.295578" rms="0.013994"/>
+				</waveblock>
+				<waveblock start="32491">
+					<simpleblockfile filename="eff1fe85.au" len="187906" min="-0.81196" max="0.763062" rms="0.311425"/>
+				</waveblock>
+				<waveblock start="220397">
+					<simpleblockfile filename="eff1fc0d.au" len="240937" min="-0.755917" max="0.722307" rms="0.151571"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Mountain Audio - Fan" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="461334">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f2bb.au" len="32491" min="-0.316257" max="0.248761" rms="0.01187"/>
+				</waveblock>
+				<waveblock start="32491">
+					<simpleblockfile filename="eff1ffa3.au" len="187906" min="-0.715719" max="0.670143" rms="0.287318"/>
+				</waveblock>
+				<waveblock start="220397">
+					<simpleblockfile filename="eff1ff59.au" len="240937" min="-0.585425" max="0.531801" rms="0.125953"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

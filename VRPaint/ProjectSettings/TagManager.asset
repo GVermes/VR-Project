@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - hands
+  - SineBullet
+  - Walls
+  - Special
+  - Ball
+  - stickies
+  - Undefined
+  - books
+  - booksTv
+  - bookGroup
+  - RBall
+  - FxTemporaire
+  - Walls2
+  - Walls3
+  - Walls4
+  - Ceiling
+  - Floor
+  - drawerMed
+  - Weight
+  - DrawerBig
+  - Fridge
+  - StudyDesk
+  - DrawerObejcts
+  - StudyObjects
+  - DrawerSmall
+  - Hanger
+  - Cup
+  - TennisSofa
+  - Fan
+  - BedPillow
+  - tvFurniture
+  - WindowCurtain
+  - Microwave
+  - CurtainWindow
+  - Nitendo
+  - Door
+  - Wardrobe
+  - PlantPot
+  - Trash
+  - Swich
+  - Ukulele
+  - Rocket
+  - Vinyl
+  - Car
+  - Radio
+  - Laptop
+  - TV
+  - Basketball
+  - Arcade
+  - Bag
+  - Clock
+  - Luggage
+  - Umbrella
+  - Alarm
+  - Darts
+  - Lamp
+  - Milk
+  - yummy
+  - BehindClock
+  - Painting
+  - PaperBox
+  - Switch
+  - SmallBag
+  - Pictures
+  - Chalk
+  - chair
+  - Poster
+  - Pillow
+  - Football
+  - Wall
+  - Skateboard
+  - Papers
+  - Wood
+  - Textil
+  - Lullaby
+  - Soccer
+  - TableBed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Floor
+  - KickBall
+  - Player
+  - HitObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

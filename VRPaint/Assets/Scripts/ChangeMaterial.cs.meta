@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 58c4a3dc278344dd798b8322afc9dd10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomMaterial: {instanceID: 0}
+  - roomMat: {instanceID: 0}
+  - fmaterial: {instanceID: 0}
+  - blueMaterial: {instanceID: 0}
+  - purpleMaterial: {instanceID: 0}
+  - darkBlue: {instanceID: 0}
+  - wallMaterial: {instanceID: 0}
+  - collisionParticle: {fileID: 100000, guid: cf5be358ffd1f4238a5efe0d80172324, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
